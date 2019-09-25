@@ -1,0 +1,11 @@
+c:\Users\cnelson\Google Drive\DojoReview\dotNETCore\C#\Puzzles\obj\Debug\netcoreapp2.2\Puzzles.csprojAssemblyReference.cache
+c:\Users\cnelson\Google Drive\DojoReview\dotNETCore\C#\Puzzles\obj\Debug\netcoreapp2.2\Puzzles.csproj.CoreCompileInputs.cache
+c:\Users\cnelson\Google Drive\DojoReview\dotNETCore\C#\Puzzles\obj\Debug\netcoreapp2.2\Puzzles.AssemblyInfoInputs.cache
+c:\Users\cnelson\Google Drive\DojoReview\dotNETCore\C#\Puzzles\obj\Debug\netcoreapp2.2\Puzzles.AssemblyInfo.cs
+C:\Users\cnelson\Google Drive\DojoReview\dotNETCore\C#\Puzzles\bin\Debug\netcoreapp2.2\Puzzles.deps.json
+C:\Users\cnelson\Google Drive\DojoReview\dotNETCore\C#\Puzzles\bin\Debug\netcoreapp2.2\Puzzles.runtimeconfig.json
+C:\Users\cnelson\Google Drive\DojoReview\dotNETCore\C#\Puzzles\bin\Debug\netcoreapp2.2\Puzzles.runtimeconfig.dev.json
+c:\Users\cnelson\Google Drive\DojoReview\dotNETCore\C#\Puzzles\bin\Debug\netcoreapp2.2\Puzzles.dll
+c:\Users\cnelson\Google Drive\DojoReview\dotNETCore\C#\Puzzles\bin\Debug\netcoreapp2.2\Puzzles.pdb
+c:\Users\cnelson\Google Drive\DojoReview\dotNETCore\C#\Puzzles\obj\Debug\netcoreapp2.2\Puzzles.dll
+c:\Users\cnelson\Google Drive\DojoReview\dotNETCore\C#\Puzzles\obj\Debug\netcoreapp2.2\Puzzles.pdb
