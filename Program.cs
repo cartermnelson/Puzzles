@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace Puzzles
 {
@@ -8,7 +9,8 @@ namespace Puzzles
         {
             // RandomArray();
             // TossCoin();
-            Console.WriteLine(TossMultipleCoins(3));
+            // Console.WriteLine(TossMultipleCoins(3));
+            Names();
         }
         public static int[] RandomArray()
         {
@@ -58,7 +60,34 @@ namespace Puzzles
                     heads++;
                 }
             }
-            return heads/num;
+            return heads / num;
+        }
+        public static List<string> Names()
+        {
+            List<string> names = new List<string>();
+            names.Add("Todd");
+            names.Add("Tiffany");
+            names.Add("Charlie");
+            names.Add("Geneva");
+            names.Add("Sydney");
+            List<string> longnames = new List<string>();
+            for (int i = 0; i < names.Count; i++)
+            {
+                int rand = new Random().Next(0, names.Count);
+                var temp = names[i];
+                names[i] = names[rand];
+                names[rand] = temp;
+                Console.WriteLine(names[i]);
+            }
+            foreach (string name in names)
+            {
+                Console.WriteLine(name);
+                if (name.Length > 5)
+                {
+                    longnames.Add(name);
+                }
+            }
+            return longnames;
         }
     }
 }
